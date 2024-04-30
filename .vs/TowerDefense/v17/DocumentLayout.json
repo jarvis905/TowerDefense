@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameProgramming\\TowerDefense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|d:\\gameprogramming\\towerdefense\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\targeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\seekingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\seekingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\firingtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firingtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\arcingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arcingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\hotplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hotplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\flyingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flyingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\groundenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|D:\\GameProgramming\\TowerDefense\\assets\\scripts\\tagretingtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tagretingtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FiringTower.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\FiringTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FiringTower.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\FiringTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FiringTower.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:06:06.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:44:32.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeekingProjectile.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\SeekingProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SeekingProjectile.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\SeekingProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SeekingProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:45:59.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArcingProjectile.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\ArcingProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArcingProjectile.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\ArcingProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArcingProjectile.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:29:26.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotPlate.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\HotPlate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HotPlate.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\HotPlate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HotPlate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:06:37.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:05:48.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAD8CAAAAAAAAAAAmwA8CAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:38:01.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlyingEnemy.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\FlyingEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlyingEnemy.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\FlyingEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlyingEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:14:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tower.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Tower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:04:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Targeter.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Targeter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Targeter.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\Targeter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Targeter.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:57:57.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroundEnemy.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\GroundEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundEnemy.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\GroundEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:38:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TagretingTower.cs",
+              "DocumentMoniker": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\TagretingTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TagretingTower.cs",
+              "ToolTip": "D:\\GameProgramming\\TowerDefense\\Assets\\Scripts\\TagretingTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TagretingTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:05:22.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
